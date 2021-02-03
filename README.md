@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🇼🇫https://www.linkedin.com/in/lexijack/
+🇫https://www.linkedin.com/in/lexijack/
