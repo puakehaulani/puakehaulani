@@ -1,7 +1,7 @@
-### a l o h a  
-i'm a new full stack developer who is insatiably curious  
-i'm learning javascript, react, node, express and mongodb, plus a little bit of python on the side  
-i'm always open to collaborating on projects and ideas  
+### a l o h a 🦈  
+✖️ i'm a new full stack developer who is insatiably curious  
+✖️ i'm learning javascript, react, node, express and mongodb, plus a little bit of python on the side  
+✖️ i'm always open to collaborating on projects and ideas  
 
 <!--
 **puakehaulani/puakehaulani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-https://www.linkedin.com/in/lexijack/
+🇼🇫https://www.linkedin.com/in/lexijack/
