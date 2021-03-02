@@ -1,7 +1,7 @@
 ### a l o h a 🦈  
 ✖️ i'm a new full stack developer who is insatiably curious  
 ✖️ darkmode always  
-✖️ i'm learning javascript, MERN stack, plus a little bit of python on the side  
+✖️ i'm learning aws & python, and solidifying javascript & MERN stack
 ✖️ i'm always open to collaborating on projects and ideas  
 
 <!--
