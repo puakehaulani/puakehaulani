@@ -1,7 +1,7 @@
 ### a l o h a 🦈  
 ✖️ i'm a new full stack developer who is insatiably curious  
 ✖️ darkmode always  
-✖️ i'm learning xcode/swift, google cloud, & aws  
+✖️ i'm learning xcode/swift, GraphQL, google cloud, & aws  
 ✖️ feeling solid in MERN stack and React Native  
 ✖️ i'm always open to collaborating on projects and ideas  
 
