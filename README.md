@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 [LinkedIn](https://www.linkedin.com/in/lexijack/)  
-[Portfolio](https://puakehaulani.github.io/portfolio-react/)
+[Portfolio](https://lexi.scalesdev.com/)
