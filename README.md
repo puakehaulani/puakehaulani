@@ -1,8 +1,7 @@
 ### a l o h a 🦈  
 ✖️ i'm a full stack developer who is insatiably curious  
 ✖️ darkmode always  
-✖️ i'm learning typescript & GraphQL
-✖️ feeling solid in MERN stack and React Native  
+✖️ solid in MERN stack, React Native, GraphQL  
 ✖️ i'm always open to collaborating on projects and ideas  
 
 <!--
