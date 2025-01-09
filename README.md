@@ -1,8 +1,8 @@
 ### a l o h a 🦈  
-✖️ i'm a full stack developer who is insatiably curious  
+✖️ insatiably curious full stack developer
 ✖️ darkmode always  
 ✖️ solid in React, React Native, GraphQL  
-✖️ i'm always open to collaborating on projects and ideas  
+✖️ front end dev by day, cs student by night
 
 
 [LinkedIn](https://www.linkedin.com/in/lexijack/)  
